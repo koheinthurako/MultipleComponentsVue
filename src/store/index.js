@@ -46,7 +46,7 @@ export default createStore({
     ]
   },
   getters: {
-    allProducts: (state) => state.products
+    // allProducts: (state) => state.products
   },
   mutations: {
   },
